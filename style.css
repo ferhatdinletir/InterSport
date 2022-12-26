@@ -1,0 +1,116 @@
+#top-message {
+    background-color: #232b49;
+    color: #f9f9f9;
+    text-align: center;
+    padding: 8px;
+}
+
+.taf-logo {
+    max-width: 50%;
+}
+
+.logo {
+    max-width: 100%;
+}
+
+.taf {
+    background-color: #f9f9f9;
+}
+
+#search-product {
+    border: none;
+    border-radius: 15px;
+}
+
+.navbar {
+    background-color: #232b49;
+}
+
+.navbar .nav-item:not(:last-child) {
+    margin-right: 35px;
+}
+.dropdown-toggle::after {
+    transition: transform 0.15s linear; 
+}
+.show.dropdown .dropdown-toggle::after {
+    transform: translateY(3px);
+}
+
+.dropdown-menu {
+    margin-top: 0;
+}
+
+.carousel-control-prev .carousel-control-next {
+    background-color: #f9f9f9;
+    border: 1px solid;
+}
+
+.slider-caption-area {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.slider-caption-area:hover {
+    cursor: pointer;
+}
+
+.category-area {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.line-title {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.category-item a img {
+    max-width: 100%;
+}
+
+.category-item a img:hover {
+    filter: brightness(50%);
+    transition: 1s;
+}
+
+.old-price {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.new-price {
+    font-weight: bold;
+}
+
+.discount {
+    color: #e93b3b;
+}
+
+#infoDialog {
+    position: fixed;
+    bottom: 50px;
+    left: 45%;
+    background-color: #232b49;
+    color: #f9f9f9;
+}
+
+#infoDialog.show {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 2s linear;
+}
+
+#infoDialog.hide {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 2s, opacity 2s linear;
+}
+
+
+@-webkit-keyframes fadeIn { from {opacity: 0;} to {opacity: 1;} }
+@keyframes fadeIn { from {opacity: 0;} to {opacity:1 ;} }
+
+@-webkit-keyframes fadeOut { from {opacity: 1;} to {opacity: 0;} }
+@keyframes fadeOut { from {opacity: 1;} to {opacity:0 ;} }

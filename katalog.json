@@ -1,0 +1,2412 @@
+[{
+        "brandName": "NIKE",
+        "brandLogo": "https://st-intersport.mncdn.com/Content/img/markalar/nike.webp",
+        "brandImage": "https://cdn.segmentify.com/0f37424e-d563-4597-87ca-b03462f08743/e/nike.jpg",
+        "brandUrl": "https://www.intersport.com.tr/markalar/nike",
+        "products": [{
+                "productId": "2310028004_O313",
+                "name": "Nike Court Royale 2 Next Nature Erkek  Günlük Spor Ayakkabı",
+                "url": "https://www.intersport.com.tr/nike-court-royale-2-nn_264194?_sgm_campaign=scn_ad76920570000&_sgm_source=2310028004_O313&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310028004_o313-nike-court-royale-2-next-nature-erkek-spor-ayakkabi-637794926020588033.jpg",
+                "price": 899.9,
+                "oldPrice": 1299.9,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "NIKE",
+                "gender": "Erkek",
+                "sizes": [
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "42 1/2",
+                    "43",
+                    "44"
+                ],
+                "allSizes": [
+                    "40",
+                    "40 1/2",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "45 1/2",
+                    "46",
+                    "47",
+                    "47 1/2",
+                    "40",
+                    "40 1/2",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "45 1/2",
+                    "46",
+                    "47",
+                    "47 1/2"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "195243500414",
+                    "model": "DH3160-001",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "264194"
+            },
+            {
+                "productId": "2310025009_O313",
+                "name": "Nike Victori One Slide Erkek Terlik",
+                "url": "https://www.intersport.com.tr/nike-nike-victori-one-slide-erkek-gunluk_247731?_sgm_campaign=scn_ad76920570000&_sgm_source=2310025009_O313&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310025009_o313-nike-nike-victori-one-slide-erkek-gunluk-637713816056980764.jpg",
+                "price": 349.93,
+                "oldPrice": 499.9,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "ERKEK > AYAKKABI > Terlik & Sandalet"
+                ],
+                "inStock": true,
+                "stockCount": 2,
+                "brand": "NIKE",
+                "gender": "Erkek",
+                "sizes": [
+                    "40",
+                    "45",
+                    "40",
+                    "45"
+                ],
+                "allSizes": [
+                    "38 1/2",
+                    "40",
+                    "41",
+                    "42 1/2",
+                    "44",
+                    "45",
+                    "46",
+                    "47 1/2",
+                    "38 1/2",
+                    "40",
+                    "41",
+                    "42 1/2",
+                    "44",
+                    "45",
+                    "46",
+                    "47 1/2"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "194497882369",
+                    "model": "CN9675-005",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "247731"
+            },
+            {
+                "productId": "2310029702_I167",
+                "name": "Nike Asuna 2 Next Nature Erkek Terlik",
+                "url": "https://www.intersport.com.tr/nike-asuna-2-nn-slide_265927?_sgm_campaign=scn_ad76920570000&_sgm_source=2310029702_I167&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310029702_i167-nike-asuna-2-nn-slide-637862499891102783.jpg",
+                "price": 699.93,
+                "oldPrice": 999.9,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "NIKE",
+                "gender": "Erkek",
+                "sizes": [
+                    "41",
+                    "42 1/2",
+                    "44",
+                    "45",
+                    "46",
+                    "41",
+                    "42 1/2",
+                    "44",
+                    "45",
+                    "46"
+                ],
+                "allSizes": [
+                    "41",
+                    "42 1/2",
+                    "44",
+                    "45",
+                    "46",
+                    "41",
+                    "42 1/2",
+                    "44",
+                    "45",
+                    "46"
+                ],
+                "colors": [
+                    "mavi"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "195869197692",
+                    "model": "DM8615-400",
+                    "color": "MAVİ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "265927"
+            },
+            {
+                "productId": "2310026977_O313",
+                "name": "Nike Lebron Witness VI Erkek Basketbol Ayakkabısı",
+                "url": "https://www.intersport.com.tr/lebron-witness-vi_263570?_sgm_campaign=scn_ad76920570000&_sgm_source=2310026977_O313&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310026977_o313-nike-lebron-witness-vi-erkek-basketbol-ayakkabisi-637750103269602205.jpg",
+                "price": 1579.9,
+                "oldPrice": 1829.9,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > BASKETBOL > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 10,
+                "brand": "NIKE",
+                "gender": "Unisex",
+                "sizes": [
+                    "42",
+                    "45",
+                    "42",
+                    "45"
+                ],
+                "allSizes": [
+                    "40",
+                    "40 1/2",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "45 1/2",
+                    "46",
+                    "47",
+                    "47 1/2",
+                    "48 1/2",
+                    "40",
+                    "40 1/2",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "45 1/2",
+                    "46",
+                    "47",
+                    "47 1/2",
+                    "48 1/2"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "195242824474",
+                    "model": "CZ4052-002",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "263570"
+            },
+            {
+                "productId": "2210080267_O043",
+                "name": "Nike Everyday Lightweight Erkek Antrenman Çorabı Üçlü",
+                "url": "https://www.intersport.com.tr/u-nk-everyday-ltwt-ankle-3pr_265753?_sgm_campaign=scn_ad76920570000&_sgm_source=2210080267_O043&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2210080267_o043-u-nk-everyday-ltwt-ankle-3pr-637873436345629821.jpg",
+                "price": 249.9,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > ANTRENMAN > Aksesuar"
+                ],
+                "inStock": true,
+                "stockCount": 55,
+                "brand": "NIKE",
+                "gender": "Unisex",
+                "sizes": [
+                    "M",
+                    "L",
+                    "M",
+                    "L"
+                ],
+                "allSizes": [
+                    "M",
+                    "L",
+                    "M",
+                    "L"
+                ],
+                "colors": [
+                    "renkli"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "194955549469",
+                    "model": "SX7677-964",
+                    "color": "RENKLİ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "265753"
+            },
+            {
+                "productId": "2210058709_I360",
+                "name": "Nike Tur Brt Top Ss Milli Takım Erkek Forması",
+                "url": "https://www.intersport.com.tr/nike-tur-brt-top-ss-milli-takim-erkek-formasi_244110?_sgm_campaign=scn_ad76920570000&_sgm_source=2210058709_I360&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/637662116823653170.jpg",
+                "price": 224.95,
+                "oldPrice": 449.9,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKSESUARLARI > Futbol > Futbol Formaları"
+                ],
+                "inStock": true,
+                "stockCount": 2,
+                "brand": "NIKE",
+                "gender": "Erkek",
+                "sizes": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ],
+                "allSizes": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ],
+                "colors": [
+                    "kırmızı"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "193654168476",
+                    "model": "CD2581-687",
+                    "color": "KIRMIZI"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "244110"
+            }
+        ]
+    },
+    {
+        "brandName": "ADIDAS",
+        "brandLogo": "https://st-intersport.mncdn.com/Content/img/markalar/ADIDAS.png",
+        "brandImage": "https://cdn.segmentify.com/0f37424e-d563-4597-87ca-b03462f08743/e/adidas.jpg",
+        "brandUrl": "https://www.intersport.com.tr/markalar/adidas",
+        "products": [{
+                "productId": "2310031438_O018",
+                "name": "adidas Terrex AX4 Primegreen Erkek Outdoor Ayakkabısı",
+                "url": "https://www.intersport.com.tr/terrex-ax4_268789?_sgm_campaign=scn_ad76920570000&_sgm_source=2310031438_O018&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310031438_o018-adidas-terrex-ax4-primegreen-erkek-outdoor-ayakkabisi-637944517679044238.jpg",
+                "price": 1699,
+                "oldPrice": 2099,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > OUTDOOR > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 2,
+                "brand": "ADIDAS",
+                "gender": "Unisex",
+                "sizes": [
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "44",
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "44"
+                ],
+                "allSizes": [
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3",
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3"
+                ],
+                "colors": [
+                    "yeşil"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "model": "GY5077-LFA28",
+                    "gtin": "4062064370624",
+                    "color": "YEŞİL"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "268789"
+            },
+            {
+                "productId": "2310031453_O368",
+                "name": "adidas Terrex AX4 Mid GORE TEX Erkek Yürüyüş Ayakkabısı",
+                "url": "https://www.intersport.com.tr/terrex-ax4-mid-gtx_268804?_sgm_campaign=scn_ad76920570000&_sgm_source=2310031453_O368&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310031453_o368-adidas-terrex-ax4-mid-gore-tex-erkek-yuruyus-ayakkabisi-637968631874270279.jpg",
+                "price": 2379,
+                "oldPrice": 2939,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "ERKEK > AYAKKABI > Outdoor"
+                ],
+                "inStock": true,
+                "stockCount": 9,
+                "brand": "ADIDAS",
+                "gender": "Unisex",
+                "sizes": [
+                    "42",
+                    "42 2/3",
+                    "42",
+                    "42 2/3"
+                ],
+                "allSizes": [
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3",
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3"
+                ],
+                "colors": [
+                    "mavi"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4065419739282",
+                    "model": "GZ3003-LFA20",
+                    "color": "MAVİ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "268804"
+            },
+            {
+                "productId": "2310031491_O307",
+                "name": "adidas Terrex AX4 Mid GORE TEX Erkek Yürüyüş Ayakkabısı",
+                "url": "https://www.intersport.com.tr/terrex-ax4-mid-gtx_268842?_sgm_campaign=scn_ad76920570000&_sgm_source=2310031491_O307&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310031491_o307-terrex-ax4-mid-gtx-637968602728006842.jpg",
+                "price": 2379,
+                "oldPrice": 2939,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > OUTDOOR > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "ADIDAS",
+                "gender": "Unisex",
+                "sizes": [
+                    "42",
+                    "45 1/3",
+                    "42",
+                    "45 1/3"
+                ],
+                "allSizes": [
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3",
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4064036032059",
+                    "model": "FY9638-LFA20",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "268842"
+            },
+            {
+                "productId": "2310021985_O307",
+                "name": "adidas Vs Pace Erkek Günlük Spor Ayakkabı",
+                "url": "https://www.intersport.com.tr/adidas-vs-pace-erkek-gunluk-ayakkabi_247073?_sgm_campaign=scn_ad76920570000&_sgm_source=2310021985_O307&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310021985_o307-adidas-vs-pace-erkek-gunluk-ayakkabi-637777769509900789.jpg",
+                "price": 769,
+                "oldPrice": 949,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 17,
+                "brand": "ADIDAS",
+                "gender": "Erkek",
+                "sizes": [
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3",
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3"
+                ],
+                "allSizes": [
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3",
+                    "46",
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3",
+                    "46"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "41 1/3",
+                    "gtin": "4059812390867",
+                    "model": "B44869-CFO64",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "247073"
+            },
+            {
+                "productId": "2310030209_O297",
+                "name": "adidas Copa Sense 3 FxG Erkek Çim Saha Kramponu",
+                "url": "https://www.intersport.com.tr/adidas-copa-sense-3-fxg-erkek-cim-saha-kramponu_268715?_sgm_campaign=scn_ad76920570000&_sgm_source=2310030209_O297&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310030209_o297-copa-sense3-fg-638049877184577592.jpg",
+                "price": 1429,
+                "oldPrice": 1679,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > FUTBOL > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "ADIDAS",
+                "sizes": [
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "44",
+                    "44 2/3",
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "44",
+                    "44 2/3"
+                ],
+                "allSizes": [
+                    "40 2/3",
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3",
+                    "40 2/3",
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4065426106848",
+                    "model": "GW3593-A0QM",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "268715"
+            },
+            {
+                "productId": "2310030152_I169",
+                "name": "adidas Terrex AX4 GORE TEX Erkek Outdoor Ayakkabısı",
+                "url": "https://www.intersport.com.tr/adidas-terrex-ax4-gore-tex-erkek-outdoor-ayakkabisi_268713?_sgm_campaign=scn_ad76920570000&_sgm_source=2310030152_I169&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310030152_i169-adidas-terrex-ax4-gore-tex-erkek-outdoor-ayakkabisi-637963566342552284.jpg",
+                "price": 2039,
+                "oldPrice": 2519,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > OUTDOOR > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 8,
+                "brand": "ADIDAS",
+                "gender": "Unisex",
+                "sizes": [
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44"
+                ],
+                "allSizes": [
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3",
+                    "46",
+                    "46 2/3",
+                    "47 1/3",
+                    "41 1/3",
+                    "42",
+                    "42 2/3",
+                    "43 1/3",
+                    "44",
+                    "44 2/3",
+                    "45 1/3",
+                    "46",
+                    "46 2/3",
+                    "47 1/3"
+                ],
+                "colors": [
+                    "gri"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4065424569645",
+                    "model": "GZ1724-LFA27",
+                    "color": "GRİ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "268713"
+            }
+        ]
+    },
+    {
+        "brandName": "VANS",
+        "brandLogo": "https://st-intersport.mncdn.com/Content/img/markalar/VANS.png",
+        "brandImage": "https://cdn.segmentify.com/0f37424e-d563-4597-87ca-b03462f08743/e/vans.jpg",
+        "brandUrl": "https://www.intersport.com.tr/markalar/vans",
+        "products": [{
+                "productId": "2310015848_O313",
+                "name": "Vans Ward Erkek Günlük Spor Ayakkabı",
+                "url": "https://www.intersport.com.tr/vans-mn-ward-erkek-gunluk-kullanim-ayakkabisi_246184?_sgm_campaign=scn_ad76920570000&_sgm_source=2310015848_O313&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310015848_o313-vans-ward-erkek-gunluk-spor-ayakkabi-637812061644082684.jpg",
+                "price": 1339,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 36,
+                "brand": "VANS",
+                "gender": "Erkek",
+                "sizes": [
+                    "43",
+                    "44",
+                    "46",
+                    "43",
+                    "44",
+                    "46"
+                ],
+                "allSizes": [
+                    "39",
+                    "40",
+                    "40 1/2",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "47",
+                    "39",
+                    "40",
+                    "40 1/2",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "47"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "190543158778",
+                    "model": "VN0A36EMC4R1",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "246184"
+            },
+            {
+                "productId": "2310028950_O002",
+                "name": "Vans Ward Kadın Günlük Spor Ayakkabı",
+                "url": "https://www.intersport.com.tr/wm-ward_264969?_sgm_campaign=scn_ad76920570000&_sgm_source=2310028950_O002&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310028950_o002-vans-ward-kadin-gunluk-spor-ayakkabi-637806185506074230.jpg",
+                "price": 1019,
+                "specialPriceText": "",
+                "mainCategory": "KADIN",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 2,
+                "brand": "VANS",
+                "gender": "Kadın",
+                "sizes": [
+                    "36 1/2",
+                    "37",
+                    "38",
+                    "38 1/2",
+                    "36 1/2",
+                    "37",
+                    "38",
+                    "38 1/2"
+                ],
+                "allSizes": [
+                    "36",
+                    "36 1/2",
+                    "37",
+                    "38",
+                    "38 1/2",
+                    "39",
+                    "40",
+                    "36",
+                    "36 1/2",
+                    "37",
+                    "38",
+                    "38 1/2",
+                    "39",
+                    "40"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "192826711717",
+                    "model": "VN0A3IUN1861-186",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "264969"
+            },
+            {
+                "productId": "2310014084_O313",
+                "name": "Vans Mn Filmore Erkek Günlük Spor Ayakkabı",
+                "url": "https://www.intersport.com.tr/vans-mn-filmore-erkek-gunluk-ayakkabi_246093?_sgm_campaign=scn_ad76920570000&_sgm_source=2310014084_O313&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/637662171404011276.jpg",
+                "price": 1339,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "VANS",
+                "gender": "Erkek",
+                "sizes": [
+                    "44",
+                    "44"
+                ],
+                "allSizes": [
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "191477742668",
+                    "model": "VA3MTJIJU",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "246093"
+            },
+            {
+                "productId": "2310031807_O002",
+                "name": "Vans Ward Guard Erkek Günlük Spor Ayakkabı",
+                "url": "https://www.intersport.com.tr/mn-ward-vansguard_269633?_sgm_campaign=scn_ad76920570000&_sgm_source=2310031807_O002&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310031807_o002-vans-ward-guard-erkek-gunluk-spor-ayakkabi-638000497276503487.jpg",
+                "price": 1719,
+                "specialPriceText": "",
+                "mainCategory": "MARKALAR",
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "VANS",
+                "gender": "Erkek",
+                "sizes": [
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "45",
+                    "46",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "45",
+                    "46"
+                ],
+                "allSizes": [
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "45",
+                    "46",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "45",
+                    "46"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "196244752505",
+                    "model": "VN0A5KXUBKA1-BKA",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269633"
+            },
+            {
+                "productId": "2310031824_O313",
+                "name": "Vans WM Ward Kadın Günlük Spor Ayakkabı",
+                "url": "https://www.intersport.com.tr/wm-ward_269650?_sgm_campaign=scn_ad76920570000&_sgm_source=2310031824_O313&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310031824_o313-wm-ward-637980699228589745.jpg",
+                "price": 1269,
+                "oldPrice": 1519,
+                "specialPriceText": "",
+                "mainCategory": "KADIN",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 2,
+                "brand": "VANS",
+                "gender": "Kadın",
+                "labels": [
+                    "KADIN / AYAKKABI / Günlük"
+                ],
+                "sizes": [
+                    "36",
+                    "36 1/2",
+                    "37",
+                    "38",
+                    "38 1/2",
+                    "39",
+                    "40",
+                    "36",
+                    "36 1/2",
+                    "37",
+                    "38",
+                    "38 1/2",
+                    "39",
+                    "40"
+                ],
+                "allSizes": [
+                    "36",
+                    "36 1/2",
+                    "37",
+                    "38",
+                    "38 1/2",
+                    "39",
+                    "40",
+                    "36",
+                    "36 1/2",
+                    "37",
+                    "38",
+                    "38 1/2",
+                    "39",
+                    "40"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "196244861740",
+                    "model": "VN0A5HTMBZW1-BZW",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269650"
+            },
+            {
+                "productId": "2310031827_O002",
+                "name": "Vans UA EVDNT RW UltimateWaffle Erkek Günlük Spor Ayakkabı",
+                "url": "https://www.intersport.com.tr/ua-evdnt-rw-ultimatewaffle_269653?_sgm_campaign=scn_ad76920570000&_sgm_source=2310031827_O002&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310031827_o002-ua-evdnt-rw-ultimatewaffle-637980699123089974.jpg",
+                "price": 2379,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "ERKEK > AYAKKABI > Günlük"
+                ],
+                "inStock": true,
+                "stockCount": 2,
+                "brand": "VANS",
+                "gender": "Unisex",
+                "sizes": [
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "42",
+                    "42 1/2",
+                    "43"
+                ],
+                "allSizes": [
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "196244706669",
+                    "model": "VN0A5DY5BKA1-BKA",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269653"
+            }
+        ]
+    },
+    {
+        "brandName": "PUMA",
+        "brandLogo": "https://st-intersport.mncdn.com/Content/img/markalar/PUMA.png",
+        "brandImage": "https://cdn.segmentify.com/0f37424e-d563-4597-87ca-b03462f08743/e/puma.jpg",
+        "brandUrl": "https://www.intersport.com.tr/markalar/puma",
+        "products": [{
+                "productId": "2310031591_O442",
+                "name": "Puma Pacer Future Trail Erkek Günlük Spor Ayakkabısı",
+                "url": "https://www.intersport.com.tr/pacer-future-trail_269162?_sgm_campaign=scn_ad76920570000&_sgm_source=2310031591_O442&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310031591_o442-puma-pacer-future-trail-erkek-gunluk-spor-ayakkabisi-638025661392324528.jpg",
+                "price": 1350,
+                "oldPrice": 1600,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 9,
+                "brand": "PUMA",
+                "sizes": [
+                    "42",
+                    "42"
+                ],
+                "allSizes": [
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45"
+                ],
+                "colors": [
+                    "yeşil"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4065449613965",
+                    "model": "382884-06",
+                    "color": "YEŞİL"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269162"
+            },
+            {
+                "productId": "2310031595_O277",
+                "name": "Puma RS Z Core Erkek Günlük Spor Ayakkabısı",
+                "url": "https://www.intersport.com.tr/rs-z-core_269166?_sgm_campaign=scn_ad76920570000&_sgm_source=2310031595_O277&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310031595_o277-puma-rs-z-core-erkek-gunluk-spor-ayakkabisi-638028131666623983.jpg",
+                "price": 1850,
+                "oldPrice": 2100,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "PUMA",
+                "gender": "Erkek",
+                "sizes": [
+                    "41",
+                    "42 1/2",
+                    "43",
+                    "44 1/2",
+                    "45",
+                    "41",
+                    "42 1/2",
+                    "43",
+                    "44 1/2",
+                    "45"
+                ],
+                "allSizes": [
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45"
+                ],
+                "colors": [
+                    "beyaz"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4065449309295",
+                    "model": "383590-07",
+                    "color": "BEYAZ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269166"
+            },
+            {
+                "productId": "2210082689_I075",
+                "name": "Puma NEYMAR JR 24/7 Erkek Antrenman Eşofman Altı",
+                "url": "https://www.intersport.com.tr/neymar-jr-247-training-pant_268927?_sgm_campaign=scn_ad76920570000&_sgm_source=2210082689_I075&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2210082689_i075-neymar-jr-247-training-pant-637977270568540524.jpg",
+                "price": 1000,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > FUTBOL"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "PUMA",
+                "sizes": [
+                    "L",
+                    "XL",
+                    "XXL",
+                    "L",
+                    "XL",
+                    "XXL"
+                ],
+                "allSizes": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL"
+                ],
+                "colors": [
+                    "mavi"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4064537785164",
+                    "model": "605816-09",
+                    "color": "MAVİ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "268927"
+            },
+            {
+                "productId": "2310026406_O313",
+                "name": "Puma Rapido III FG/AG Erkek Krampon",
+                "url": "https://www.intersport.com.tr/puma-rapido-iii-fgag-erkek-krampon_269096?_sgm_campaign=scn_ad76920570000&_sgm_source=2310026406_O313&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310026406_o313-puma-rapido-iii-fgag-erkek-krampon-638042190529423829.jpg",
+                "price": 849.9,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > FUTBOL > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 2,
+                "brand": "PUMA",
+                "sizes": [
+                    "42",
+                    "44",
+                    "42",
+                    "44"
+                ],
+                "allSizes": [
+                    "40",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "40",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4063699932010",
+                    "model": "106572-02",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269096"
+            },
+            {
+                "productId": "2310031566_O320",
+                "name": "Puma Mirage Sport Tech Neon Erkek Spor Ayakkabısı",
+                "url": "https://www.intersport.com.tr/puma-mirage-sport-tech-neon-erkek-spor-ayakkabisi_269137?_sgm_campaign=scn_ad76920570000&_sgm_source=2310031566_O320&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310031566_o320-puma-mirage-sport-tech-neon-erkek-spor-ayakkabisi-638042190602083961.jpg",
+                "price": 1750,
+                "oldPrice": 2000,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "PUMA",
+                "sizes": [
+                    "42 1/2",
+                    "44",
+                    "44 1/2",
+                    "42 1/2",
+                    "44",
+                    "44 1/2"
+                ],
+                "allSizes": [
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4065449661553",
+                    "model": "387602-01",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269137"
+            },
+            {
+                "productId": "2310028508_O267",
+                "name": "Puma Skye Clean Kadın Günlük Spor Ayakkabı",
+                "url": "https://www.intersport.com.tr/classics-ribbed-tee_264480?_sgm_campaign=scn_ad76920570000&_sgm_source=2310028508_O267&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310028508_o267-puma-skye-clean-kadin-gunluk-spor-ayakkabi-637824202257025864.jpg",
+                "price": 899.9,
+                "specialPriceText": "",
+                "mainCategory": "KADIN",
+                "category": [
+                    "KADIN > AYAKKABI > Günlük"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "PUMA",
+                "gender": "Kadın",
+                "sizes": [
+                    "36",
+                    "36"
+                ],
+                "allSizes": [
+                    "36",
+                    "37",
+                    "37 1/2",
+                    "38",
+                    "38 1/2",
+                    "39",
+                    "40",
+                    "36",
+                    "37",
+                    "37 1/2",
+                    "38",
+                    "38 1/2",
+                    "39",
+                    "40"
+                ],
+                "colors": [
+                    "beyaz"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4063697596481",
+                    "model": "380147-02",
+                    "color": "BEYAZ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "264480"
+            }
+        ]
+    },
+    {
+        "brandName": "JORDAN",
+        "brandLogo": "https://st-intersport.mncdn.com/Content/img/markalar/jordan.webp",
+        "brandImage": "https://cdn.segmentify.com/0f37424e-d563-4597-87ca-b03462f08743/e/jordan.jpg",
+        "brandUrl": "https://www.intersport.com.tr/markalar/jordan",
+        "products": [{
+                "productId": "2210082298_O005",
+                "name": "Jordan  Ess  Puffer  Erkek Günlük Mont",
+                "url": "https://www.intersport.com.tr/m-j-ess-puffer-jacket_269288?_sgm_campaign=scn_ad76920570000&_sgm_source=2210082298_O005&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2210082298_o005-jordan-ess-puffer-erkek-gunluk-mont-638006510551654515.jpeg",
+                "price": 2999.9,
+                "oldPrice": 3499.9,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > BASKETBOL > Giyim"
+                ],
+                "inStock": true,
+                "stockCount": 2,
+                "brand": "JORDAN",
+                "gender": "Unisex",
+                "sizes": [
+                    "M",
+                    "L",
+                    "M",
+                    "L"
+                ],
+                "allSizes": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ],
+                "colors": [
+                    "kırmızı"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "195871646027",
+                    "model": "DQ7348-612",
+                    "color": "KIRMIZI"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269288"
+            },
+            {
+                "productId": "2310030681_O275",
+                "name": "Jordan Max Aura 4 Erkek Basketbol Ayakkabısı",
+                "url": "https://www.intersport.com.tr/jordan-max-aura-4-erkek-basketbol-ayakkabisi_269416?_sgm_campaign=scn_ad76920570000&_sgm_source=2310030681_O275&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310030681_o275-jordan-max-aura-4-erkek-basketbol-ayakkabisi-637958454252301619.jpg",
+                "price": 2599.9,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > BASKETBOL > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "JORDAN",
+                "gender": "Unisex",
+                "sizes": [
+                    "42",
+                    "42 1/2",
+                    "44",
+                    "42",
+                    "42 1/2",
+                    "44"
+                ],
+                "allSizes": [
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "45 1/2",
+                    "46",
+                    "47",
+                    "47 1/2",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "45 1/2",
+                    "46",
+                    "47",
+                    "47 1/2"
+                ],
+                "colors": [
+                    "beyaz"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "196149159171",
+                    "model": "DN3687-106",
+                    "color": "BEYAZ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269416"
+            },
+            {
+                "productId": "2210084157_O012",
+                "name": "Jordan Ess  Flc Fz Hoodie Erkek Günlük Sweatshirt",
+                "url": "https://www.intersport.com.tr/m-j-ess-flc-fz-hoodie_269507?_sgm_campaign=scn_ad76920570000&_sgm_source=2210084157_O012&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2210084157_o012-m-j-ess-flc-fz-hoodie-637973782573964655.jpg",
+                "price": 1299.9,
+                "oldPrice": 1549.9,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "ERKEK > GİYİM > Sweatshirt"
+                ],
+                "inStock": true,
+                "stockCount": 2,
+                "brand": "JORDAN",
+                "gender": "Erkek",
+                "sizes": [
+                    "L",
+                    "L"
+                ],
+                "allSizes": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ],
+                "colors": [
+                    "gri"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "195871646324",
+                    "model": "DQ7350-091",
+                    "color": "GRİ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269507"
+            },
+            {
+                "productId": "2210082408_O213",
+                "name": "Jordan Paris Saint-Germain Erkek Günlük Sweatshirt",
+                "url": "https://www.intersport.com.tr/m-j-psg-flc-po_269316?_sgm_campaign=scn_ad76920570000&_sgm_source=2210082408_O213&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2210082408_o213-m-j-psg-flc-po-637973782582384622.png",
+                "price": 1749.9,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > BASKETBOL > Giyim"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "JORDAN",
+                "sizes": [
+                    "M",
+                    "XL",
+                    "M",
+                    "XL"
+                ],
+                "allSizes": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ],
+                "colors": [
+                    "kırmızı"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "195868360110",
+                    "model": "DM3096-291",
+                    "color": "KIRMIZI"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269316"
+            },
+            {
+                "productId": "2210085826_O313",
+                "name": "Jordan 23E Flc Erkek Basketbol Eşofman Altı",
+                "url": "https://www.intersport.com.tr/m-j-23e-flc-pant_270154?_sgm_campaign=scn_ad76920570000&_sgm_source=2210085826_O313&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2210085826_o313-jordan-23e-flc-erkek-basketbol-esofman-alti-638031878556690875.jpeg",
+                "price": 1499.9,
+                "oldPrice": 1749.9,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > BASKETBOL > Giyim"
+                ],
+                "inStock": true,
+                "stockCount": 2,
+                "brand": "JORDAN",
+                "gender": "Erkek",
+                "sizes": [
+                    "M",
+                    "L",
+                    "XL",
+                    "M",
+                    "L",
+                    "XL"
+                ],
+                "allSizes": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "M",
+                    "gtin": "195871676277",
+                    "model": "DQ8088-010",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "270154"
+            },
+            {
+                "productId": "2310030685_O002",
+                "name": "Jordan Max Aura 4 Erkek Siyah Basketbol Ayakkabısı",
+                "url": "https://www.intersport.com.tr/jordan-max-aura-4-erkek-siyah-basketbol-ayakkabisi_270174?_sgm_campaign=scn_ad76920570000&_sgm_source=2310030685_O002&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310030685_o002-jordan-max-aura-4-erkek-siyah-basketbol-ayakkabisi-638048899065227031.jpg",
+                "price": 2549.9,
+                "oldPrice": 2799.9,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > BASKETBOL > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 3,
+                "brand": "JORDAN",
+                "gender": "Erkek",
+                "sizes": [
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "45",
+                    "46",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "45",
+                    "46"
+                ],
+                "allSizes": [
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "41",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "196149158839",
+                    "model": "DN3687-001",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "270174"
+            }
+        ]
+    },
+    {
+        "brandName": "SKECHERS",
+        "brandLogo": "https://st-intersport.mncdn.com/Content/img/markalar/SKECHERS.png",
+        "brandImage": "https://cdn.segmentify.com/0f37424e-d563-4597-87ca-b03462f08743/e/skechers.jpg",
+        "brandUrl": "https://www.intersport.com.tr/markalar/skechers",
+        "products": [{
+                "productId": "2310028733_O267",
+                "name": "Skechers Summits Kadın Beyaz Günlük Spor Ayakkabı",
+                "url": "https://www.intersport.com.tr/summits_265065?_sgm_campaign=scn_ad76920570000&_sgm_source=2310028733_O267&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310028733_o267-skechers-summits-kadin-beyaz-gunluk-spor-ayakkabi-637946856108680090.jpg",
+                "price": 874.3,
+                "oldPrice": 1249,
+                "specialPriceText": "",
+                "mainCategory": "KADIN",
+                "category": [
+                    "KADIN > AYAKKABI > Günlük"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "SKECHERS",
+                "gender": "Kadın",
+                "sizes": [
+                    "36",
+                    "36 1/2",
+                    "37 1/2",
+                    "38 1/2",
+                    "39",
+                    "36",
+                    "36 1/2",
+                    "37 1/2",
+                    "38 1/2",
+                    "39"
+                ],
+                "allSizes": [
+                    "36",
+                    "36 1/2",
+                    "37",
+                    "37 1/2",
+                    "38",
+                    "38 1/2",
+                    "39",
+                    "40",
+                    "36",
+                    "36 1/2",
+                    "37",
+                    "37 1/2",
+                    "38",
+                    "38 1/2",
+                    "39",
+                    "40"
+                ],
+                "colors": [
+                    "beyaz"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "8683030028422",
+                    "model": "12980TK-WSL",
+                    "color": "BEYAZ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "265065"
+            },
+            {
+                "productId": "2310028699_O268",
+                "name": "Skechers Summits Erkek Beyaz Günlük Spor Ayakkabı",
+                "url": "https://www.intersport.com.tr/summits_265031?_sgm_campaign=scn_ad76920570000&_sgm_source=2310028699_O268&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310028699_o268-skechers-summits-erkek-beyaz-gunluk-spor-ayakkabi-637946845771361240.jpg",
+                "price": 909.3,
+                "oldPrice": 1299,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 2,
+                "brand": "SKECHERS",
+                "gender": "Erkek",
+                "sizes": [
+                    "42",
+                    "43",
+                    "44",
+                    "42",
+                    "43",
+                    "44"
+                ],
+                "allSizes": [
+                    "40",
+                    "41",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "45",
+                    "40",
+                    "41",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "45"
+                ],
+                "colors": [
+                    "beyaz"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "8683030030968",
+                    "model": "52811TK-WLGY",
+                    "color": "BEYAZ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "265031"
+            },
+            {
+                "productId": "2310031653_O307",
+                "name": "Skechers Glide-Step Trail Erkek Outdoor Bot",
+                "url": "https://www.intersport.com.tr/skechers-glide-step-trail-erkek-outdoor-bot_269180?_sgm_campaign=scn_ad76920570000&_sgm_source=2310031653_O307&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310031653_o307-skechers-glide-step-trail-erkek-outdoor-bot-638043767705830116.jpg",
+                "price": 2299,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > OUTDOOR > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "SKECHERS",
+                "sizes": [
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "44",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "44"
+                ],
+                "allSizes": [
+                    "40",
+                    "41",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "45",
+                    "40",
+                    "41",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "45"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "195969639634",
+                    "model": "237257-BKCC",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269180"
+            },
+            {
+                "productId": "2310016071_O002",
+                "name": "Skechers Mens Sport Casual Erkek Günlük Spor Ayakkabı",
+                "url": "https://www.intersport.com.tr/skechers-mens-sport-casual-erkek-spor-ayakkabi_246206?_sgm_campaign=scn_ad76920570000&_sgm_source=2310016071_O002&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/637662174817853568.jpg",
+                "price": 1799,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "SKECHERS",
+                "gender": "Erkek",
+                "sizes": [
+                    "40",
+                    "42 1/2",
+                    "45",
+                    "40",
+                    "42 1/2",
+                    "45"
+                ],
+                "allSizes": [
+                    "40",
+                    "41",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "45",
+                    "40",
+                    "41",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43",
+                    "44",
+                    "45"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "192283736216",
+                    "model": "51591-BBK",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "246206"
+            },
+            {
+                "productId": "2310019239_O022",
+                "name": "Skechers Fashion Fit Wild Aura Kadın Günlük Spor Ayakkabı",
+                "url": "https://www.intersport.com.tr/fashion-fit_263172?_sgm_campaign=scn_ad76920570000&_sgm_source=2310019239_O022&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310019239_o022-fashion-fit-637751750677161076.jpg",
+                "price": 1499,
+                "specialPriceText": "",
+                "mainCategory": "KADIN",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "SKECHERS",
+                "gender": "Kadın",
+                "sizes": [
+                    "36",
+                    "36 1/2",
+                    "37",
+                    "38 1/2",
+                    "36",
+                    "36 1/2",
+                    "37",
+                    "38 1/2"
+                ],
+                "allSizes": [
+                    "36",
+                    "36 1/2",
+                    "37",
+                    "37 1/2",
+                    "38",
+                    "38 1/2",
+                    "39",
+                    "40",
+                    "36",
+                    "36 1/2",
+                    "37",
+                    "37 1/2",
+                    "38",
+                    "38 1/2",
+                    "39",
+                    "40"
+                ],
+                "colors": [
+                    "bej"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "193113686749",
+                    "model": "88888179-TPE",
+                    "color": "BEJ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "263172"
+            },
+            {
+                "productId": "2210083889_O002",
+                "name": "Skechers New Basics  Regular  Erkek Günlük Eşofman Altı",
+                "url": "https://www.intersport.com.tr/skechers-new-basics-regular-erkek-gunluk-esofman-alti_269044?_sgm_campaign=scn_ad76920570000&_sgm_source=2210083889_O002&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2210083889_o002-new-basics-m-regular-sweatpant-637961946388154529.jpg",
+                "price": 599,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > GÜNLÜK > Giyim"
+                ],
+                "inStock": true,
+                "stockCount": 14,
+                "brand": "SKECHERS",
+                "gender": "Erkek",
+                "sizes": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL"
+                ],
+                "allSizes": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "8683030024615",
+                    "model": "S221480-001",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269044"
+            }
+        ]
+    },
+    {
+        "brandName": "ASICS",
+        "brandLogo": "https://st-intersport.mncdn.com/Content/img/markalar/ASICS.png",
+        "brandImage": "https://cdn.segmentify.com/0f37424e-d563-4597-87ca-b03462f08743/e/asics.jpg",
+        "brandUrl": "https://www.intersport.com.tr/markalar/asics",
+        "products": [{
+                "productId": "2310029847_O267",
+                "name": "Asics Novablast 3 Platinum Erkek Koşu Ayakkabısı",
+                "url": "https://www.intersport.com.tr/novablast-3-platinum_269103?_sgm_campaign=scn_ad76920570000&_sgm_source=2310029847_O267&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310029847_o267-asics-novablast-3-platinum-erkek-kosu-ayakkabisi-637997893247585727.jpg",
+                "price": 2899,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "ERKEK > AYAKKABI > Koşu & Yürüyüş"
+                ],
+                "inStock": true,
+                "stockCount": 5,
+                "brand": "ASICS",
+                "gender": "Erkek",
+                "sizes": [
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "45",
+                    "46",
+                    "46 1/2"
+                ],
+                "allSizes": [
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "47",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "47"
+                ],
+                "colors": [
+                    "beyaz"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4550455578310",
+                    "model": "1011B461-100",
+                    "color": "BEYAZ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269103"
+            },
+            {
+                "productId": "2310029853_O321",
+                "name": "Asics Novablast 3 Lite-Show Erkek Koşu Ayakkabısı",
+                "url": "https://www.intersport.com.tr/asics-novablast-3-lite-show-erkek-kosu-ayakkabisi_269107?_sgm_campaign=scn_ad76920570000&_sgm_source=2310029853_O321&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310029853_o321-asics-novablast-3-lite-show-erkek-kosu-ayakkabisi-638041110527199106.jpg",
+                "price": 2799,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > KOŞU & YÜRÜYÜŞ > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 6,
+                "brand": "ASICS",
+                "gender": "Erkek",
+                "sizes": [
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "46",
+                    "46 1/2",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "46",
+                    "46 1/2"
+                ],
+                "allSizes": [
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "47",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "47"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4550455580528",
+                    "model": "1011B534-001",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269107"
+            },
+            {
+                "productId": "2310027665_O320",
+                "name": "Asics GT 1000 11 Gore Tex Erkek Koşu Ayakkabısı",
+                "url": "https://www.intersport.com.tr/gt-1000-11-gtx_269097?_sgm_campaign=scn_ad76920570000&_sgm_source=2310027665_O320&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310027665_o320-gt-1000-11-gtx-637975413752698338.jpg",
+                "price": 2599,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > KOŞU & YÜRÜYÜŞ > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 3,
+                "brand": "ASICS",
+                "gender": "Erkek",
+                "sizes": [
+                    "41 1/2",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "41 1/2",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2"
+                ],
+                "allSizes": [
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "47",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "47"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4550330935689",
+                    "model": "1011B447-001",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269097"
+            },
+            {
+                "productId": "2310031697_O316",
+                "name": "Asics Gel Cumulus 24 Gore tex Erkek Koşu Ayakkabısı",
+                "url": "https://www.intersport.com.tr/asics-gel-cumulus-24-gore-tex-erkek-kosu-ayakkabisi_269224?_sgm_campaign=scn_ad76920570000&_sgm_source=2310031697_O316&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310031697_o316-asics-gel-cumulus-24-gore-tex-erkek-kosu-ayakkabisi-638060922133642437.jpg",
+                "price": 2949,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "ERKEK > AYAKKABI > Koşu & Yürüyüş"
+                ],
+                "inStock": true,
+                "stockCount": 3,
+                "brand": "ASICS",
+                "gender": "Erkek",
+                "sizes": [
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2"
+                ],
+                "allSizes": [
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4550455647955",
+                    "model": "1011B484-001",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269224"
+            },
+            {
+                "productId": "2310026193_O002",
+                "name": "Gel Sonoma 6 Gore Tex Erkek Koşu Ayakkabısı",
+                "url": "https://www.intersport.com.tr/gel-sonoma-6-g-tx_263650?_sgm_campaign=scn_ad76920570000&_sgm_source=2310026193_O002&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310026193_o002-gel-sonoma-6-g-tx-637722228472318362.jpg",
+                "price": 2199,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "SPOR AKTİVİTELERİ > KOŞU & YÜRÜYÜŞ > Ayakkabı"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "ASICS",
+                "gender": "Erkek",
+                "sizes": [
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2"
+                ],
+                "allSizes": [
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "47",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "47"
+                ],
+                "colors": [
+                    "siyah"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4550329595894",
+                    "model": "1011B048-002",
+                    "color": "SİYAH"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "263650"
+            },
+            {
+                "productId": "2310031705_O012",
+                "name": "Asics Gel Kayano 14 Unisex Koşu Ayakkabısı",
+                "url": "https://www.intersport.com.tr/gel-kayano-14_269232?_sgm_campaign=scn_ad76920570000&_sgm_source=2310031705_O012&_sgm_action=click",
+                "image": "https://st-intersport.mncdn.com/mnpadding/1000/1000/FFFFFF/Content/media/ProductImg/original/2310031705_o012-asics-gel-kayano-14-erkek-kosu-ayakkabisi-637997893270485784.jpg",
+                "price": 2899,
+                "specialPriceText": "",
+                "mainCategory": "ERKEK",
+                "category": [
+                    "KADIN > AYAKKABI > Koşu & Yürüyüş"
+                ],
+                "inStock": true,
+                "stockCount": 1,
+                "brand": "ASICS",
+                "gender": "Erkek",
+                "sizes": [
+                    "39",
+                    "40 1/2",
+                    "41 1/2",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46 1/2",
+                    "39",
+                    "40 1/2",
+                    "41 1/2",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46 1/2"
+                ],
+                "allSizes": [
+                    "37",
+                    "37 1/2",
+                    "38",
+                    "39",
+                    "39 1/2",
+                    "40",
+                    "40 1/2",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2",
+                    "37",
+                    "37 1/2",
+                    "38",
+                    "39",
+                    "39 1/2",
+                    "40",
+                    "40 1/2",
+                    "41 1/2",
+                    "42",
+                    "42 1/2",
+                    "43 1/2",
+                    "44",
+                    "44 1/2",
+                    "45",
+                    "46",
+                    "46 1/2"
+                ],
+                "colors": [
+                    "gri"
+                ],
+                "params": {
+                    "selectedSize": "",
+                    "gtin": "4550329462967",
+                    "model": "1201A161-020",
+                    "color": "GRİ"
+                },
+                "language": "TR",
+                "currency": "TRY",
+                "groupId": "269232"
+            }
+        ]
+    }
+]
